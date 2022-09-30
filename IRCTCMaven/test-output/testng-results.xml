@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-19T21:52:19 IST" name="Default suite" finished-at="2022-09-19T21:52:56 IST" duration-ms="36877">
+    <groups>
+    </groups>
+    <test started-at="2022-09-19T21:52:19 IST" name="Default test" finished-at="2022-09-19T21:52:56 IST" duration-ms="36877">
+      <class name="Pack23.VerifyToSearchButton">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Pack23.VerifyToSearchButton@5e0826e7]" started-at="2022-09-19T21:52:19 IST" name="openBrowser" finished-at="2022-09-19T21:52:22 IST" duration-ms="3251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="openIRCTCbrowser()[pri:0, instance:Pack23.VerifyToSearchButton@5e0826e7]" started-at="2022-09-19T21:52:22 IST" name="openIRCTCbrowser" finished-at="2022-09-19T21:52:56 IST" duration-ms="33556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openIRCTCbrowser -->
+        <test-method signature="verifyToFromHiddenList()[pri:0, instance:Pack23.VerifyToSearchButton@5e0826e7]" started-at="2022-09-19T21:52:56 IST" name="verifyToFromHiddenList" finished-at="2022-09-19T21:52:56 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyToFromHiddenList -->
+      </class> <!-- Pack23.VerifyToSearchButton -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
